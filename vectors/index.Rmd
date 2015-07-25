@@ -9,7 +9,7 @@ hitheme     : tomorrow      #
 widgets     : [mathjax, quiz]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
-logo		: ../brsl.png
+logo		: brsl.png
 ---
 
 ## What are Vectors ?
